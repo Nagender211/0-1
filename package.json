@@ -22,6 +22,7 @@
   "homepage": "https://github.com/Nagender211/0-1#readme",
   "dependencies": {
     "express": "^5.2.1",
-    "nodemon": "^3.1.11"
+    "nodemon": "^3.1.11",
+    "zod": "^4.3.6"
   }
 }
